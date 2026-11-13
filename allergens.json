@@ -1,0 +1,183 @@
+{
+  "Milk": {
+    "hidden_names": {
+      "whey": "a milk protein",
+      "casein": "a milk protein",
+      "caseinate": "made from casein, a milk protein",
+      "lactose": "the natural sugar in milk",
+      "lactalbumin": "a milk protein",
+      "lactoglobulin": "a milk protein",
+      "ghee": "clarified butter, made from milk",
+      "curds": "made from milk",
+      "milk solids": "dried milk"
+    },
+    "off_tags": ["en:milk"],
+    "common_sources": ["cheese", "yogurt", "ice cream", "chocolate", "baked goods", "creamy sauces and dressings", "protein powders"]
+  },
+  "Eggs": {
+    "hidden_names": {
+      "albumin": "an egg-white protein",
+      "albumen": "egg white",
+      "ovalbumin": "an egg-white protein",
+      "ovomucoid": "an egg-white protein",
+      "lysozyme": "an enzyme usually taken from egg whites",
+      "mayonnaise": "made with egg yolks",
+      "meringue": "made from egg whites"
+    },
+    "off_tags": ["en:eggs"],
+    "common_sources": ["baked goods", "fresh pasta and egg noodles", "mayonnaise", "custards and puddings", "breaded or battered foods"]
+  },
+  "Peanuts": {
+    "hidden_names": {
+      "arachis": "the scientific name for peanut (arachis oil is peanut oil)",
+      "groundnut": "another name for peanut",
+      "monkey nuts": "another name for peanuts",
+      "beer nuts": "a brand of glazed peanuts",
+      "mandelonas": "peanuts soaked in almond flavoring"
+    },
+    "off_tags": ["en:peanuts"],
+    "common_sources": ["candy and chocolate", "granola and protein bars", "satay and other Asian sauces", "African and Asian dishes", "baked goods", "chili"]
+  },
+  "Tree nuts": {
+    "hidden_names": {
+      "almond": "a tree nut",
+      "cashew": "a tree nut",
+      "walnut": "a tree nut",
+      "pecan": "a tree nut",
+      "pistachio": "a tree nut",
+      "hazelnut": "a tree nut",
+      "filbert": "another name for hazelnut, a tree nut",
+      "macadamia": "a tree nut",
+      "brazil nut": "a tree nut",
+      "pine nut": "a seed often grouped with tree nuts",
+      "pignoli": "another name for pine nuts",
+      "marzipan": "a paste made from almonds",
+      "praline": "usually made with nuts like pecans or almonds",
+      "gianduja": "a chocolate and hazelnut paste",
+      "frangipane": "an almond cream filling"
+    },
+    "off_tags": ["en:nuts"],
+    "common_sources": ["baked goods", "cereals and granola", "chocolate and candy", "pesto", "nut butters and nut milks", "ice cream"]
+  },
+  "Fish": {
+    "hidden_names": {
+      "anchovy": "a small fish",
+      "anchovies": "the plural of anchovy, a small fish",
+      "fish sauce": "made from fermented fish",
+      "surimi": "imitation crab, made from fish",
+      "roe": "fish eggs",
+      "caviar": "fish eggs",
+      "bonito": "a fish, often used in Japanese broth",
+      "dashi": "a Japanese broth usually made with bonito fish",
+      "fish gelatin": "gelatin made from fish"
+    },
+    "off_tags": ["en:fish"],
+    "common_sources": ["Worcestershire sauce", "Caesar dressing", "Asian sauces and broths", "imitation crab", "fish oil supplements"]
+  },
+  "Shellfish": {
+    "hidden_names": {
+      "shrimp": "a crustacean shellfish",
+      "prawn": "a crustacean shellfish",
+      "crab": "a crustacean shellfish",
+      "lobster": "a crustacean shellfish",
+      "crayfish": "a crustacean shellfish",
+      "crawfish": "a crustacean shellfish",
+      "langoustine": "a crustacean shellfish",
+      "scampi": "a crustacean shellfish",
+      "krill": "a crustacean shellfish",
+      "clam": "a mollusk shellfish",
+      "oyster": "a mollusk shellfish",
+      "mussel": "a mollusk shellfish",
+      "scallop": "a mollusk shellfish",
+      "squid": "a mollusk shellfish",
+      "calamari": "squid, a mollusk shellfish"
+    },
+    "off_tags": ["en:crustaceans", "en:molluscs"],
+    "common_sources": ["seafood dishes", "seafood stock and soups", "shrimp paste and Asian sauces", "seafood flavoring"]
+  },
+  "Wheat": {
+    "hidden_names": {
+      "semolina": "flour made from durum wheat",
+      "durum": "a type of wheat",
+      "spelt": "a type of wheat",
+      "farro": "a type of wheat",
+      "kamut": "a type of wheat",
+      "einkorn": "a type of wheat",
+      "emmer": "a type of wheat",
+      "farina": "made from wheat",
+      "bulgur": "cracked wheat",
+      "couscous": "made from wheat",
+      "seitan": "made from wheat gluten",
+      "triticale": "a cross between wheat and rye",
+      "graham flour": "a whole-wheat flour"
+    },
+    "off_tags": ["en:gluten"],
+    "common_sources": ["bread and pasta", "crackers and cereals", "soy sauce (often brewed with wheat)", "beer", "breaded or battered foods", "sauces thickened with flour"]
+  },
+  "Soy": {
+    "hidden_names": {
+      "edamame": "young soybeans",
+      "tofu": "made from soybeans",
+      "tempeh": "made from fermented soybeans",
+      "miso": "a paste made from fermented soybeans",
+      "natto": "fermented soybeans",
+      "shoyu": "soy sauce",
+      "tamari": "a type of soy sauce",
+      "okara": "soybean pulp",
+      "textured vegetable protein": "usually made from soy",
+      "tvp": "textured vegetable protein, usually made from soy"
+    },
+    "off_tags": ["en:soybeans"],
+    "common_sources": ["soy sauce", "Asian dishes", "processed meats", "protein bars and shakes", "vegan meat substitutes"]
+  },
+  "Sesame": {
+    "hidden_names": {
+      "tahini": "sesame seed paste",
+      "benne": "another name for sesame",
+      "gingelly": "another name for sesame (gingelly oil is sesame oil)",
+      "gomasio": "a sesame and salt seasoning",
+      "halvah": "a candy usually made from sesame paste",
+      "sim sim": "another name for sesame",
+      "til": "another name for sesame"
+    },
+    "off_tags": ["en:sesame-seeds"],
+    "common_sources": ["hummus", "bagels and burger buns", "Asian and Middle Eastern dishes", "salad dressings", "crackers"]
+  },
+  "Coconut": {
+    "hidden_names": {
+      "copra": "dried coconut meat",
+      "cocos nucifera": "the scientific name for coconut"
+    },
+    "off_tags": [],
+    "common_sources": ["Thai curries", "candy bars", "baked goods", "non-dairy creamers and milks", "vegan cheeses"]
+  },
+  "Mustard": {
+    "hidden_names": {
+      "sinapis": "the scientific name for white mustard",
+      "brassica juncea": "the scientific name for brown mustard"
+    },
+    "off_tags": ["en:mustard"],
+    "common_sources": ["salad dressings", "mayonnaise", "pickles", "curries and spice blends", "deli meats and sausages"]
+  },
+  "Celery": {
+    "hidden_names": {
+      "celeriac": "celery root",
+      "apium graveolens": "the scientific name for celery"
+    },
+    "off_tags": ["en:celery"],
+    "common_sources": ["soups and stocks", "spice blends", "celery powder in uncured bacon and hot dogs", "salads"]
+  },
+  "Corn": {
+    "hidden_names": {
+      "maize": "another name for corn",
+      "polenta": "made from cornmeal",
+      "grits": "made from ground corn",
+      "hominy": "corn soaked in lime",
+      "masa": "a dough made from corn",
+      "dextrose": "a sugar usually made from corn",
+      "maltodextrin": "a starch usually made from corn"
+    },
+    "off_tags": [],
+    "common_sources": ["tortillas and chips", "sodas and candy (corn syrup)", "cereals", "baked goods", "sauces thickened with cornstarch"]
+  }
+}
